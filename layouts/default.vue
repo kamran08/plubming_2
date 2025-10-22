@@ -346,7 +346,7 @@
                             </div>
                             <div class="col-6 col-lg-2">
                                 <div class="_hAbout_pic_main">
-                                    <router-link class="_hAbout_link" to="/plumbing">
+                                    <router-link class="_hAbout_link" to="/repair">
                                         <img class="_hAbout_pic" src="/rapir.jpg" alt="">
 
                                         <i class="_hAbout_menu_title">Repair</i>
@@ -503,7 +503,7 @@
                             <Panel name="3">
                                 What areas do you serve?
                                 <template #content>
-                                 All are in London
+                                 We cover all area in London and Essex
                                 </template>
                             </Panel>
                             <!-- <Panel name="4">
@@ -537,7 +537,7 @@
             <div class="col-12 col-md-auto w-37">
                       <div class="_footer_we">
                         <h2 class="_footer_we_title">london plumbing & heating</h2>
-                        <p class="_footer_we_text">We are London based plumbing,heating and Repair services provider.</p>
+                        <p class="_footer_we_text">We are a London based plumbing,heating & Repair service provider.</p>
                         <div class="_footer_we_pic">
                           <img src="/gas_safe.jpg" alt="" title="">
                         </div>
@@ -550,6 +550,7 @@
                         <h2 class="_footer_list_title">Services</h2>
                         <ul class="_footer_list_ul">
                           <li><a href="#">Plumbing</a></li>
+                          <li><a href="#">Heating</a></li>
                           <!-- <li><a href="#">Tile and Grout</a></li>
                           <li><a href="#">Housekeeping</a></li>
                           <li><a href="#">Window Cleaning</a></li>
@@ -560,11 +561,12 @@
 
                   <div class="col-12 col-md">
                         <div class="_footer_list">
-                          <h2 class="_footer_list_title">Pages</h2>
+                          <!-- <h2 class="_footer_list_title">Pages</h2> -->
                           <ul class="_footer_list_ul">
                             <!-- <li><a href="#">About Us</a></li> -->
                             <!-- <li><a href="#">Testimonial</a></li> -->
                             <!-- <li><a href="#">Housekeeping</a></li> -->
+                            <li><a href="#">About Us</a></li>
                             <li><a href="#">Faqs</a></li>
                             <li><a href="#">Contact Us</a></li>
                           </ul>
@@ -597,8 +599,8 @@
           </div>
 
           <p class="_footer_copy">
-            © 2025 All rights reserved by .., 
-            By london plumbing and heating.
+            © 2025 All rights reserved by 
+            By London Plumbing & Heating.
           </p>
         </div>
       </footer>
