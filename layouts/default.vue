@@ -31,7 +31,7 @@
                     <div class="_1header_openTime_icon">
                       <Icon type="md-clock" />
                     </div>
-                    <p class="_1header_openTime_text">Mon - Fri: 09.00am - 10.00pm ~ londonplumbingnheating@hotmail.com</p>
+                    <p class="_1header_openTime_text">Mon - Fri: 09.00am - 10.00pm ~ Bari's.ph.ltd@outlook.com</p>
                   </div>
                 </li>
               </ul>
@@ -133,7 +133,7 @@
               <div class="_1menu_right">
                 <div class="_1menu_call">
                   <div class="_1menu_call_icon">
-                    <font-awesome-icon :icon="['fas', 'phone']" />
+                    <!-- <font-awesome-icon :icon="['fas', 'phone']" /> -->
                   </div>
                   <div class="_1menu_call_con">
                     <p class="_1menu_call_con_text">Quick Contact</p>
@@ -249,14 +249,14 @@
                             <div class="_1banner_tag_firstRow">
                                 <div class="_1banner_tag_item">
                                     <div class="_1banner_tag_icon">
-                                        <font-awesome-icon :icon="['fas', 'check']" />
+                                        <!-- <font-awesome-icon :icon="['fas', 'check']" /> -->
                                     </div>
 
                                     <p class="_1banner_tag_title">24/7 service</p>
                                 </div>
                                 <div class="_1banner_tag_item">
                                     <div class="_1banner_tag_icon">
-                                        <font-awesome-icon :icon="['fas', 'check']" />
+                                        <!-- <font-awesome-icon :icon="['fas', 'check']" /> -->
                                     </div>
                                     <p class="_1banner_tag_title">Pay as You Go</p>
                                 </div>
@@ -265,7 +265,7 @@
                             <div class="_1banner_tag_secRow">
                                 <div class="_1banner_tag_item">
                                     <div class="_1banner_tag_icon">
-                                        <font-awesome-icon :icon="['fas', 'check']" />
+                                        <!-- <font-awesome-icon :icon="['fas', 'check']" /> -->
                                     </div>
 
                                     <p class="_1banner_tag_title">Eco-friendly</p>
@@ -577,7 +577,7 @@
                           <div class="_footer_info_con">
                             <h2 class="_footer_info_num"> 07766515390</h2>
                             <ul class="_footer_info_email">
-                              <li>londonplumbingnheating@hotmail.com</li>
+                              <li>Bari's.ph.ltd@outlook.com</li>
                               <li>
                                 205 Albright court 
                                   8 mast street 
@@ -663,7 +663,7 @@ export default {
       }
     };
 
-    console.log('ss', this.scrollY)
+    // console.log('ss', this.scrollY)
   },
 }
 </script>
