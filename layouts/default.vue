@@ -579,10 +579,10 @@
                             <ul class="_footer_info_email">
                               <li>Londonplumbingnheating@hotmail.com</li>
                               <li>
-                                205 Albright court 
+                                <!-- 205 Albright court 
                                   8 mast street 
                                   Ig117hd
-                                  London
+                                  London -->
                               </li>
                             </ul>
 
@@ -599,8 +599,8 @@
           </div>
 
           <p class="_footer_copy">
-            <!-- © 2025 All rights reserved by 
-            By London Plumbing & Heating. -->
+            © 2026 All rights reserved by 
+            By London Plumbing & Heating.
           </p>
         </div>
       </footer>
