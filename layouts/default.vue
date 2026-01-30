@@ -599,8 +599,8 @@
           </div>
 
           <p class="_footer_copy">
-            © 2025 All rights reserved by 
-            By London Plumbing & Heating.
+            <!-- © 2025 All rights reserved by 
+            By London Plumbing & Heating. -->
           </p>
         </div>
       </footer>
