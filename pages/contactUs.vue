@@ -106,7 +106,7 @@
                                             </defs>
                                         </svg>
                                     </div>
-                                    <p class="_con_ques_info_text">Bari's.ph.ltd@outlook.com</p>
+                                    <p class="_con_ques_info_text">Londonplumbingnheating@hotmail.com</p>
                                 </div>
                             </div>
                         </div>

@@ -31,7 +31,7 @@
                     <div class="_1header_openTime_icon">
                       <Icon type="md-clock" />
                     </div>
-                    <p class="_1header_openTime_text">Mon - Fri: 09.00am - 10.00pm ~ Bari's.ph.ltd@outlook.com</p>
+                    <p class="_1header_openTime_text">Mon - Fri: 09.00am - 10.00pm ~ Londonplumbingnheating@hotmail.com</p>
                   </div>
                 </li>
               </ul>
@@ -51,43 +51,43 @@
           <div class="logos">
             <div class="logo_items">
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
             </div>
             <div class="logo_items">
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
                 <i class="_text_slider_text">Emergency Repair: 07766515390</i>
-                <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i>
+                <!-- <i class="_text_slider_text">Emergency Repair tel: 020-859-43276</i> -->
             </div>
           </div>
         </div>
@@ -577,7 +577,7 @@
                           <div class="_footer_info_con">
                             <h2 class="_footer_info_num"> 07766515390</h2>
                             <ul class="_footer_info_email">
-                              <li>Bari's.ph.ltd@outlook.com</li>
+                              <li>Londonplumbingnheating@hotmail.com</li>
                               <li>
                                 205 Albright court 
                                   8 mast street 
